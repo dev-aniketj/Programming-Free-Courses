@@ -1,4 +1,4 @@
-# All Programming Language Free Courses
+# FREE PROGRAMMING COURSES
 
 ## React
 
